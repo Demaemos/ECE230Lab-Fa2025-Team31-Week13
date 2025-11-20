@@ -13,6 +13,8 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 
 ## Summary
 
+In this lab, we learned to implement state machines in two ways. The first way consisted of representing each state by its own D-Flip Flop. The other counts states with a binary number where a D-Flip Flop is used to represent each bit, and some logic will decode the states into an output.
+
 ## Lab Questions
 
 ### Compare and contrast One Hot and Binary encodings
