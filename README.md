@@ -21,3 +21,4 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
 
+For quick and low number state state machines, a One Hot state machine seem to be easier and faster to implement. But for a state machine with many states, a Binary state machine uses way less resources and would thus be cheaper in computer power and recourses to implement.
